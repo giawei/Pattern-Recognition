@@ -6,4 +6,4 @@ Abstract: Using chemical analysis determine the origin of wines
 ```
 [Wine Data Set](https://archive.ics.uci.edu/ml/datasets/Wine)
 
-![This is a alt text.](./images.jpg "This is a sample image.")
+![This is a alt text.](images.jpg "This is a sample image.")
