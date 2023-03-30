@@ -1,6 +1,6 @@
-##學習資源
+## 學習資源
 https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
-##DATASET
+## DATASET
 ```
 Abstract: Using chemical analysis determine the origin of wines
 ```
